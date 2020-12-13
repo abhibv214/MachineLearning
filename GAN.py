@@ -1,4 +1,10 @@
 
+
+
+#code referenced from : https://www.tensorflow.org/tutorials/generative/dcgan
+
+
+
 import tensorflow as tf
 
 tf.__version__
