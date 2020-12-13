@@ -1,4 +1,8 @@
 
+
+#code referenced from: https://www.tensorflow.org/probability/examples/Probabilistic_Layers_VAE
+
+
 import numpy as np
 
 import tensorflow.compat.v2 as tf
